@@ -53,6 +53,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bl-larGav/bl-larGav/blob/output/snake.svg" alt="Snake animation" />
-
 ###

@@ -1,4 +1,4 @@
-<h2 align="left">Passionate Web dev eager to learn & participate in AEC hackathon.</h2>
+<h2 align="left">Passionate developer eager to learn & participate hackathon.</h2>
 
 ###
 

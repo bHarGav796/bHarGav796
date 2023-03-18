@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhargav Phukan</h1>
 <h3 align="center">Follow me, as I navigate the exciting world of code and discover the world of web and mobile development to unlock endless possibilities of code.</h3>
-<br>
 - 🔭 I’m currently working on **QR Code Attendance Tracker**
 
 - 🌱 I’m currently learning **Android Devlopment**

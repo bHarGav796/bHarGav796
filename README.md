@@ -28,4 +28,4 @@ In 2024 I'm dedicated to continuous learning and actively seeking new challenges
 </br>
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=101010)]()
 </br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rodrigomartind" alt="rodrigomartind" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=bHarGav796" alt="rodrigomartind" /></p>

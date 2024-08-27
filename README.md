@@ -5,16 +5,18 @@ As a highly motivated and tech-savvy individual with a strong desire to learn an
 
 ## Resume
 I'm a budding Computer Science and Engineering graduate with a passion for building innovative solutions.</br>
-In 2020, I embarked on my journey to become a skilled software developer 🎓.</br>
-In 2021, I took on my first role as a Social Intern, raising awareness about cybercrime's impact on society 💻.</br>
-In 2022, I delved into the world of Set-UID programs, researching vulnerabilities in Ubuntu 22.04 🛡️.</br>
-In 2023, I implemented JWT-based authentication as a Java Backend Developer Intern at XopunTech, securing APIs and testing endpoints 🔐.</br>
-In 2024, I’m pushing boundaries with projects like a QR Code Attendance Tracker and Wall-Climbing RC Car controlled via an Android app, blending tech innovation with real-world applications 🚀.</br>
-I'm dedicated to continuous learning and actively seeking new challenges to further develop my skills and contribute to innovative projects 🌱💡.</br>
+In 2020, I began my journey to becoming a skilled software developer 🎓.</br>
+In 2021, I took on my first role as a Social Intern, raising awareness about Cybercrime 💻.</br>
+In 2022, I researched Set-UID programs and their vulnerabilities in Ubuntu 22.04 🛡️.</br>
+In 2023, I implemented [JWT based Authentication](https://github.com/bHarGav796/JWT_Module.git), as a Java Backend Developer Intern at XopunTech, securing APIs & testing endpoint 🔐.</br>
+In 2023, I also brought my ideas to life by creating a [QR Code Attendance Tracker](https://github.com/bHarGav796/AttendanceSystem-Working.git).📱</br>
+In 2023, I pursued my interest in IoT by developing a [Wall-climbing RC Car](https://github.com/bHarGav796/WallClimbingRC_Project.git), controlled via an Android app.</br>
+In 2024, I created my first 3D mobile game featuring smooth controls, shooting mechanics, and AI enemies 🎮.</br>
+In 2024, I'm dedicated to continuous learning and actively seeking new challenges to further develop my skills and contribute to innovative projects 🌱💡.</br>
 
 ## Present
 - 🔭 I’m currently Open to Work.
-- 🌱 I’m currently learning **Android Devlopment**
+- 🌱 I’m currently learning **Android Devlopment**.
 - 📫 How to reach me **phukanbhargav796@gmail.com**
 
 ## Skills:
@@ -25,4 +27,3 @@ I'm dedicated to continuous learning and actively seeking new challenges to furt
 </br>
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=101010)]()
 </br>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

@@ -4,13 +4,13 @@
 As a highly motivated and tech-savvy individual with a strong desire to learn and contribute, I am seeking an opportunity where I can leverage my problem-solving skills and passion for technology to contribute to innovative projects.
 
 ## Resume
-I'm a budding Computer Science and Engineering graduate with a passion for building innovative solutions.
-In 2020, I embarked on my journey to become a skilled software developer 🎓.
-In 2021, I took on my first role as a Social Intern, raising awareness about cybercrime's impact on society 💻.
-In 2022, I delved into the world of Set-UID programs, researching vulnerabilities in Ubuntu 22.04 🛡️.
-In 2023, I implemented JWT-based authentication as a Java Backend Developer Intern at XopunTech, securing APIs and testing endpoints 🔐.
-In 2024, I’m pushing boundaries with projects like a QR Code Attendance Tracker and Wall-Climbing RC Car controlled via an Android app, blending tech innovation with real-world applications 🚀.
-I'm dedicated to continuous learning and actively seeking new challenges to further develop my skills and contribute to innovative projects 🌱💡.
+I'm a budding Computer Science and Engineering graduate with a passion for building innovative solutions.</br>
+In 2020, I embarked on my journey to become a skilled software developer 🎓.</br>
+In 2021, I took on my first role as a Social Intern, raising awareness about cybercrime's impact on society 💻.</br>
+In 2022, I delved into the world of Set-UID programs, researching vulnerabilities in Ubuntu 22.04 🛡️.</br>
+In 2023, I implemented JWT-based authentication as a Java Backend Developer Intern at XopunTech, securing APIs and testing endpoints 🔐.</br>
+In 2024, I’m pushing boundaries with projects like a QR Code Attendance Tracker and Wall-Climbing RC Car controlled via an Android app, blending tech innovation with real-world applications 🚀.</br>
+I'm dedicated to continuous learning and actively seeking new challenges to further develop my skills and contribute to innovative projects 🌱💡.</br>
 
 ## Present
 - 🔭 I’m currently Open to Work.

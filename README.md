@@ -16,7 +16,7 @@ In 2024 I'm dedicated to continuous learning and actively seeking new challenges
 
 ## Present
 - 🔭 I’m currently Open to Work.
-- 🌱 I’m currently learning **Android Devlopment** and practice solving [Leetcode](https://leetcode.com/u/bl-larGav/) problems.
+- 🌱 I’m currently learning **Android Devlopment** and practice solving [**Leetcode**](https://leetcode.com/u/bl-larGav/) problems.
 - 📫 How to reach me **phukanbhargav796@gmail.com**
 
 ## Skills:
